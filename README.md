@@ -1,4 +1,9 @@
 # Maryland Car Crash Database
+
+## Project Status - Complete
+
+### Currently the SQL server is offline. The data visualizations will not show since it is not pulling data from the server anymore.
+
 ## Description
 When someone experiences a car crash on a dangerous road they should be able to input the circumstances that surround that crash to hopefully warn others. A user will be able to use this site to input data regarding their crash that will be added to a statewide database. The database will be analyzed to more accurately determine what roads in Maryland need to be prioritized for change in the future. This could be due to factors such as certain roads being more susceptible to weather or some roads being poorly designed which creates more crashes. 
 ## Link to Heroku
